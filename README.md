@@ -154,3 +154,6 @@ As with the Training interface, you can select GPUs, custom batch_sizes (to over
 
 The script at `tsne.py` provides an easy interface to generate t-SNE plots.
 
+## 李剑备注：
+https://zhuanlan.zhihu.com/p/46499846
+本代码的博文：细粒度图像识别之Pairwise Confusion
